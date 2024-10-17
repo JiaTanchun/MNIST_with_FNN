@@ -14,7 +14,8 @@ To run this code, you need to have the following packages installed:
 You can install them using the following command:
 
 ```bash
-pip install torch torchvision matplotlib```
+pip install torch torchvision matplotlib
+```
 
 ## Code Structure
 
